@@ -1,0 +1,7 @@
+Name: Mark Pelagio Gasid
+Age: 20
+Birthday: December 10,2000
+Birthplace: Tarnate, San Vicente, Northern Samar
+Sex: Male
+Address: Tarnate, San Vicente, Northern Samar
+Nationality: Filipino
